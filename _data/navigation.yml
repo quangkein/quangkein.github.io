@@ -31,6 +31,17 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
+- title: "Phần mềm"
+  url: "/software/"
+  side: left
+  dropdown:
+  - title: "Photoshop"
+    url: "/design/grid/"
+  - title: "Office"
+    url: "/design/typography/typography/"
+  - title: "Chỉnh sửa video"
+    url: "/design/page/"
+
 - title: "Header Styles"
   url: "/headers/"
   side: left
