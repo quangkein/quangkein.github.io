@@ -2,7 +2,6 @@
 
 # Newsletter: Stay in Touch for Future Updates
 
-test trigger
 
 If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
