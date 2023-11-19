@@ -1,4 +1,4 @@
-- title: Start
+- title: Trang chủ
   url: "/"
   side: left
 
@@ -66,10 +66,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Tìm kiếm"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Liên hệ"
   url: "/contact/"
   side: right
