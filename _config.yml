@@ -232,7 +232,7 @@ sass:
 # google_analytics_tracking_id:
 
 google_analytics:
-  id: G-YQWD2MKFXS                # fill in your Google Analytics ID
+  id: G-5J7VYSXH0K             # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
