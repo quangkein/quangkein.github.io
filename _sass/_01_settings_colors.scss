@@ -72,16 +72,16 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $body-bg;
+$topbar-bg-color    : #203b3f;
 $topbar-bg          : $topbar-bg-color;
 
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color  : #ffffff;
+$topbar-link-color-hover: #ffffff;
+$topbar-link-color-active: #ffffff;
+$topbar-link-color-active-hover: #ffffff;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -91,14 +91,14 @@ $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-bg: $topbar-bg-color ; // Background Mobile Navigation
+$topbar-dropdown-link-color: $topbar-link-color;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
+$topbar-menu-link-color: #ffffff;
+$topbar-menu-icon-color: #ffffff;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
