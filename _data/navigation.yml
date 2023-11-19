@@ -33,7 +33,7 @@
 
 - title: "Phần mềm"
   url: "/software/"
-  side: left
+  side: mid
   dropdown:
   - title: "Photoshop"
     url: "/design/grid/"
