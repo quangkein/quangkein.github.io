@@ -6,4 +6,4 @@ title               : "Contact"
 # teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-Email to: quangkenz7@gmail.com
+Email to: quangkenz7 (at) gmail.com
